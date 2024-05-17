@@ -1,0 +1,17 @@
+{
+  "name": "aaa",
+  "version": "1.0.0",
+  "description": "nft minting siye",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Igor",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.12",
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "web3": "^1.10.0"
+  }
+}
