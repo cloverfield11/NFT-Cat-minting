@@ -14,7 +14,7 @@ To get started with this project, you will need to have Node.js and Truffle inst
 Once you have Node.js and Truffle installed, you can clone this repository and navigate to the project directory:
 
 ```
-git clone https://github.com/your-username/my-nft.git
+git clone https://github.com/cloverfield11/NFT-Cat-minting
 cd my-nft
 ```
 
