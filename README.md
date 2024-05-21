@@ -1,6 +1,8 @@
 NFT Cat minting app
 =====================
 
+<img width="1920" alt="Снимок экрана 2024-05-21 в 15 46 19" src="https://github.com/cloverfield11/NFT-Cat-minting/assets/130602166/17df20a4-1036-4ba4-8636-960975c0df6c">
+
 This is a simple  template of fullstack NFT minting app built on the Ethereum blockchain using Node.js, Web3.js and Solidity. It allows users to mint their own NFTs and view them on the website.
 
 Getting Started
